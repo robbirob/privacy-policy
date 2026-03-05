@@ -8,8 +8,8 @@ title: Privacy Policy
 **Last updated:** 2026-03-05
 
 ## 1. Controller / Contact
-**Robert Freese]**  
-Contact: **robert.freese@gmx.c**
+**Robert Freese**  
+Contact: **robert.freese@gmx.de**
 
 ## 2. What data we process
 Our app requests the Android permission **`android.permission.CAMERA`** to enable the following feature:
