@@ -8,7 +8,7 @@ title: Privacy Policy
 **Last updated:** 2026-03-06
 
 ## 1. Controller / Contact
-Robert Freese
+Robert Freese  
 Email:robert.freese@gmx.de
 
 ## 2. Summary
