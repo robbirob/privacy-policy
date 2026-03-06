@@ -9,7 +9,7 @@ title: Privacy Policy
 
 ## 1. Controller / Contact
 Robert Freese  
-Email:robert.freese@gmx.de
+Email: robert.freese@gmx.de
 
 ## 2. Summary
 We take your privacy seriously. This app is designed to work **without an account** and to process your content **locally on your device**.
