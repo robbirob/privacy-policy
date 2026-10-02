@@ -5,11 +5,11 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated:** 2026-03-06
+**Last updated:** 2026-Oct-02
 
 ## 1. Controller / Contact
 Robert Freese  
-Email: robert.freese@gmx.de
+Email: robert.freese [at] gmx.de
 
 ## 2. Summary
 We take your privacy seriously. This app is designed to work **without an account** and to process your content **locally on your device**.
